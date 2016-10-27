@@ -1,4 +1,5 @@
 
+
 public class Course {
 	private String name;
 	private int seats;
@@ -75,5 +76,7 @@ public class Course {
 		return this.getName() + " " + this.getCredits();
 	}
 }
+
+
 
 
